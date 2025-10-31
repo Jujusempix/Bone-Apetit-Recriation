@@ -6,3 +6,5 @@ Esse código é a tentativa de uma recriação de um projeto de 2021 aonde eu es
 ## Tecnologias usadas:
 - HTML5
 - CSS3
+- Google Fonts
+- Bootstrap
