@@ -58,3 +58,9 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
+
+.img-miojo {
+    width: 50%;
+    height: auto;
+    border-radius: 10%;
+}
